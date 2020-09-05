@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707318911521",
+    "firebase_url": "https://chatapp-da538.firebaseio.com",
+    "project_id": "chatapp-da538",
+    "storage_bucket": "chatapp-da538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707318911521:android:2203bc7728ee58e39ec960",
+        "android_client_info": {
+          "package_name": "com.snehasisdebbarman.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707318911521-g6518dh1g76c8aike6ui01nb7dj7e1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mm0ZNTm_2tmqt2NMxeu4kJZz8_mgKAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707318911521-g6518dh1g76c8aike6ui01nb7dj7e1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
